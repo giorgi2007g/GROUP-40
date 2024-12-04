@@ -1,0 +1,17 @@
+parentheses-ფრჩხილები
+quotes-ბრჭყალები
+
+variable-ცვლადი
+variable name - ცვლადის სახელი
+variable value - ცვლადის მნიშვნელობა
+equal - ტოლობა(=)
+
+ასევე გვაქვს sololearn_ი გასაკეთებლად!
+რომელიც გავაკეთე <3
+
+print("Hello World!")
+
+print(7 + 1)
+print(10 - 5)
+print(5 * 3)
+print(9 / 3)
